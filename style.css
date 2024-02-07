@@ -513,16 +513,16 @@ hr{
     color: white;
   }
 
-  #footer{
+  /* #footer{
     height: 50vh;
     width: 100%;
     background-color: red;
-  }
+  } */
 
   #footer{
     height: 200px;
     width: 100%;
-    background-color: #000000;
+    background-color: #15171e;
     color: white;
     display: flex;
   }
